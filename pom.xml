@@ -137,12 +137,6 @@
 			<artifactId>scijava-common</artifactId>
 		</dependency>
 
-		<!-- SCIFIO dependencies -->
-		<dependency>
-			<groupId>io.scif</groupId>
-			<artifactId>scifio</artifactId>
-		</dependency>
-
 		<!-- Third party dependencies -->
 		<dependency>
 			<groupId>edu.ucar</groupId>
